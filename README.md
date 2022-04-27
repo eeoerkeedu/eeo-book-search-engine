@@ -1,7 +1,7 @@
 # eeo-book-search-engine
 ![badge](https://img.shields.io/badge/license-MIT-green)
 
-## Link:https://github.com/eeoerkeedu/eeo-book-search-engine
+## Link:https://mighty-plateau-39046.herokuapp.com/
 	
 ## Description 
 A web app to search for and save books for future reading.
@@ -10,7 +10,7 @@ A web app to search for and save books for future reading.
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [How to Contribute](#How to Contribute)
+  * [How to Contribute](#Contribute)
   * [Tests](#tests)
   * [Questions](#questions)
 
@@ -25,7 +25,7 @@ This project is licensed under  MIT
 
 For deatils visit https://choosealicense.com/licenses/mit/
 
-## How to Contribute 
+## Contribute 
 tbd
 
 ## Tests
